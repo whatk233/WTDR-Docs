@@ -5,8 +5,8 @@
   "homepage": "https://whatk.me",
   "author": "Whatk",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
+    "docs:dev": "vuepress dev Docs",
+    "docs:build": "vuepress build Docs",
     "cname": "bash cname.sh"
   },
   "repository": {

@@ -2,5 +2,5 @@
 
 set -e
 
-cd docs/.vuepress/dist
+cd Docs/.vuepress/dist
 echo 'wtdr.whatk.me' > CNAME
