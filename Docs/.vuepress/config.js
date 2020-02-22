@@ -1,7 +1,7 @@
 const moment = require('moment');
 module.exports = {
   title: 'WTDR',
-  base: "/WTDR-Docs/",
+  base: "/",
   plugins: [
     ['vuepress-plugin-auto-sidebar', {
       titleMap: {
