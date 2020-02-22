@@ -1,0 +1,25 @@
+{
+  "name": "wtdr-docs",
+  "version": "1.0.0",
+  "description": "WTDR 系统部署辅助工具文档",
+  "homepage": "https://whatk.me",
+  "author": "Whatk",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "cname": "bash cname.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatk233/WTDR-Docs.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/whatk233/WTDR-Docs/issues"
+  },
+  "devDependencies": {
+    "moment": "^2.24.0",
+    "vuepress": "^1.3.1",
+    "vuepress-plugin-auto-sidebar": "^1.3.1"
+  }
+}
