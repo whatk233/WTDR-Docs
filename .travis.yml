@@ -1,14 +1,23 @@
 language: node_js
 node_js:
-  - lts/*
+  - "lts/*"
+branches:
+  only:
+  - master
+cache:
+  directories:
+  - node_modules
+before_install:
+- export TZ='Asia/Shanghai'  # 设置时区
 script:
   - npm run docs:build
   - npm run cname
 deploy:
   provider: pages
   skip-cleanup: true
-  local_dir: docs/.vuepress/dist
   github-token: $GITHUB_TOKEN
-  keep-history: true
+  local-dir: docs/.vuepress/dist/ ## 根据情况自定义到静态文件输出目录
+  target-branch: gh-pages
+  verbose: true
   on:
     branch: master
