@@ -19,7 +19,7 @@ module.exports = {
     search: false,
     sidebarDepth: 2,
     lastUpdated: '上次修改',
-    docsDir: 'docs',
+    docsDir: 'Docs',
     repo: 'whatk233/WTDR-Docs',
     editLinks: true,
     editLinkText: '编辑文档',

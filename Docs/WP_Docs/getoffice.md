@@ -5,8 +5,11 @@ title: 获取 OfficePack
 ::: danger 注意
 以下 OfficePack 只兼容 WTDR.Pack `V1.6.0` 或更高版本
 :::
+::: warning 提醒
+相关 OfficePack 正在更新中，并会在未来几天上传
+:::
 ::: tip 关于激活
-Office 系列会自带 AAct 进行自动 KMS 激活，如不需要请编辑相关配置文件进行关闭。
+请自行通过正规渠道解决 Office 激活问题
 :::
 ## Office 2016
 基于官方 `16.0.10827.20150 X64` 版本进行打包，默认安装传统三件套（Word，Excel，PowerPoint），当然你也可以修改 “Pack:/Office2016_Setup/Configuration.xml” 来决定安装哪一个，默认版本为“专业增强版”
