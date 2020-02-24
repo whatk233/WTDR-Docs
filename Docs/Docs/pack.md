@@ -18,4 +18,4 @@ Pack=1
 ## 就这？
 就这，新版本咱把 WTDR.Pack 独立了，可以单独调用而不依赖 WTDR    
 需要更多帮助请到：  
-[WTDR.Pack 帮助文档]()
+[WTDR.Pack 帮助文档](/WP_Docs)
