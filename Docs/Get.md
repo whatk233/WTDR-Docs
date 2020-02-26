@@ -6,8 +6,8 @@
 :::
 
 :::tip 最后更新：
-WTDR: 0.5.5.2_Beta (2002/02/26)     
-WTDR.Pack: 1.6.0.1 (2002/02/26)     
+WTDR: 0.5.5.2_Beta (2020/02/26)     
+WTDR.Pack: 1.6.0.1 (2020/02/26)     
 :::
 
 [WTDR (5683)](https://www.lanzous.com/b0ejge1ej)    
