@@ -251,7 +251,9 @@ Task3=R|%Appdata%\TranslucentTB\TranslucentTB.exe|||1
 去尝试吧 xD
 
 ## 其他
-当检测到`@@Pack@@`文件夹内存在`ApplyCancel`，将跳过应用该包以及应用后任务
+当检测到`@@Pack@@`文件夹内存在`ApplyCancel`，将跳过应用该包以及应用后任务   
+
+`%ApplyPath%` 为 `应用到位置`变量 <Badge text="V1.6.1" type="info"/>
 
 ## 测试
 :::tip 提示
