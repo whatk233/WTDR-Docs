@@ -15,5 +15,5 @@ WTDR: 0.5.7.0_Beta (2020/03/31)
 WTDR.Pack: 1.6.1 (2020/02/30)     
 :::
 
-[WTDR (5683)](https://www.lanzous.com/b0ejge1ej)    
-[WTDR.Pack (f9f1)](https://www.lanzous.com/b0ejge1gb)
+[WTDR (5683)](https://0c0.lanzous.com/b0ejge1ej)    
+[WTDR.Pack (f9f1)](https://0c0.lanzous.com/b0ejge1gb)
