@@ -11,9 +11,9 @@ WTDR.Pack V1.6 版本存在“部分应用位置下无法应用包” Bug
 :::
 
 :::tip 最后更新：
-WTDR: 0.5.7.0_Beta (2020/03/31)     
+WTDR: 0.6.0.0_Beta (2020/05/11)     
 WTDR.Pack: 1.6.1 (2020/02/30)     
 :::
 
-[WTDR (5683)](https://0c0.lanzous.com/b0ejge1ej)    
-[WTDR.Pack (f9f1)](https://0c0.lanzous.com/b0ejge1gb)
+[WTDR](https://0c0.lanzous.com/b0ejge1ej)(5683)    
+[WTDR.Pack](https://0c0.lanzous.com/b0ejge1gb)(f9f1)
