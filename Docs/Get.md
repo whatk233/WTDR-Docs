@@ -6,13 +6,12 @@
 :::
 
 ::: warning 更新建议
-WTDR.Pack V1.6 版本存在“部分应用位置下无法应用包” Bug    
-建议更新到 V1.6.1   
+当前新版 WTDR 以及 WTDR.Pack 修复了一些影响较为重大问题，建议更新
 :::
 
 :::tip 最后更新：
-WTDR: 0.6.0.0_Beta (2020/05/11)     
-WTDR.Pack: 1.6.1 (2020/02/30)     
+WTDR: 0.6.2.0_Beta (2020/05/28)     
+WTDR.Pack: 1.6.2 (2020/05/28)     
 :::
 
 [WTDR](https://0c0.lanzous.com/b0ejge1ej)(5683)    
