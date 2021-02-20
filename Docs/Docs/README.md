@@ -19,11 +19,11 @@ title: 介绍
 + WTDR.Pack（软件包功能）
 + 按规则修改主机名
 + 优化规则
-+ WTDR.AntiFamily（全家桶检测）
 + 账户功能（待完善）
 + UAC 控制
 + 盘符整理功能
 + 桌面/锁屏背景设置
++ RDP 远程桌面
 + 持续更新...
 
 ## 感谢
@@ -37,9 +37,6 @@ WTDR.Pack 功能部分灵感来自 Dism++ 的 通用安装脚本——Sut
 ## 更新日记
 [WTDR 更新日记](https://mubu.com/doc/5TWn-8JFJQO)   
 [WTDR.Pack 更新日记](https://mubu.com/doc/LwA2queo4O)
-
-## 论坛
-[WTDR！](https://forum.wtdr.whatk.me/)
 
 ## 示例
 [Windsys](https://windsys.win)

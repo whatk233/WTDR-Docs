@@ -70,7 +70,8 @@ module.exports = {
     ['link', {
       rel: 'icon',
       href: '/favicon.ico'
-    }] // 增加一个自定义的 favicon(网页标签的图标)
+    }], // 增加一个自定义的 favicon(网页标签的图标)
+    ['script',{ async: '', defer:'', "data-website-id":'86601fa5-6a29-4952-9846-57e597da2eef', src:'https://umami.whatk.me/umami.js'}]
   ],
   markdown: {
     lineNumbers: true // 代码块显示行号

@@ -65,3 +65,15 @@ PassWord=2740421FDF14ECC47FFA184D2545CC0CBE3DC8DEE4D8C49B91B11A17A2090D7D
 ;自动登录次数（留空或为0则为不自动登录，需要自动登录几次就填几次）（该项设置密码后才有效）
 LogonCount=1    ;自动登录一次
 ```
+
+## 尽可能避免生成 Administrator.xxx 文件夹 <Badge text="V0.7.0" type="info"/>
+尽可能避免生成 Administrator.xxx 文件夹  
+### 用法
+将 `User` 字段中`HandleAdminDotDir`值设置为`1`(启用)状态    
+该项需要`启用管理员账户(Administrator)`后才有效     
+
+```ini
+[User]
+;尽可能避免生成 Administrator.xxx 文件夹
+HandleAdminDotDir=1
+```
