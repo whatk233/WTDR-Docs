@@ -6,7 +6,7 @@
 :::
 
 ::: warning 更新建议
-当前新版 WTDR 以及 WTDR.Pack 修复了一些影响较为重大问题，建议更新
+WTDR 以及 WTDR.Pack 仍处于 Beta 阶段，我们建议持续保持为最新版。
 :::
 
 :::tip 最后更新：
@@ -14,5 +14,4 @@ WTDR: 0.7.0.0_Beta (2021/02/19)
 WTDR.Pack: 1.6.2 (2020/05/28)     
 :::
 
-[WTDR](https://0c0.lanzous.com/b0ejge1ej)(5683)    
-[WTDR.Pack](https://0c0.lanzous.com/b0ejge1gb)(f9f1)
+[前往 my-file 获取](https://my-file.cn/s/k3ACy)
