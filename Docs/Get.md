@@ -10,8 +10,12 @@ WTDR 以及 WTDR.Pack 仍处于 Beta 阶段，我们建议持续保持为最新�
 :::
 
 :::tip 最后更新：
-WTDR: 0.7.0.0_Beta (2021/02/19)     
+WTDR: 0.7.0.1_Beta (2021/07/27)     
 WTDR.Pack: 1.6.2 (2020/05/28)     
+:::
+
+:::tip 联系
+如有问题可通过邮件进行反馈。
 :::
 
 [前往 my-file 获取](https://my-file.cn/s/k3ACy)
