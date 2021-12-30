@@ -11,8 +11,6 @@ title: 制作 WTDR.Pack 包
 
 :::tip 示例 WTDR.Pack 包
 文档中的示例包可到“[获取](/Get.md)”下载
-
-需要更多软件包可以到 [WTDR!](https://forum.wtdr.whatk.me/) 下载
 :::
 
 ## 包命名规则

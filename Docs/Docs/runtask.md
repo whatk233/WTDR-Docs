@@ -6,7 +6,7 @@ autoPrev: tackover
 
 用于系统部署时运行指定程序/任务，删除指定文件/文件夹   
 
-    支持运行：exe,bat,cmd,vbs,msi   
+    支持运行：exe,bat,cmd,vbs,msi,appx,msix,appxbundle   
     支持执行单条 CMD 命令任务
     支持导入注册表
     支持调用可移动设备的程序
@@ -59,4 +59,11 @@ TaskX=
 |%X% |所有磁盘(包括可移动磁盘)|
 |%Drive%|所有固定磁盘|
 |%U%|所有可移动设备|
-|%CD%|所有光驱¿|
+|%CD%|所有光驱|
+
+## 特殊运行参数参数
+
+### 适用于运行 UWP 安装包 <Badge text="V0.8.1" type="info"/>
+| 参数 | 用途 |
+| ------ | ------ |
+|-WSET_Provisioned|全局安装|
