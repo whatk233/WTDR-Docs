@@ -18,4 +18,4 @@ WTDR.Pack: 1.7.1 (2021/12/27)
 如有问题可通过邮件进行反馈。
 :::
 
-[前往 my-file 获取](https://my-file.cn/s/k3ACy)
+[前往 filen 获取](https://drive.filen.io/f/6e1d713c-6ea4-4de5-83a1-82bc353ffe77#Q3bkJ5jP6QApd0xFlTdSWA1FC4Ij5i0a)
